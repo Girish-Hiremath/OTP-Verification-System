@@ -2,25 +2,25 @@
 
 **Project Requirements:**
 
-1. Implement a function to generate a 6-digit OTP randomly.:
+1. Implement a function to generate a 6-digit OTP randomly.
 
-2. Develop a function to simulate sending the OTP to the user's email address.:
+2. Develop a function to simulate sending the OTP to the user's email address.
 
-3. Create a function to prompt the user to enter the OTP received in their email.:
+3. Create a function to prompt the user to enter the OTP received in their email.
 
-4. Implement a function to verify if the entered OTP matches the generated OTP.:
+4. Implement a function to verify if the entered OTP matches the generated OTP.
 
-5. Ensure proper error handling and user-friendly prompts throughout the system.:
+5. Ensure proper error handling and user-friendly prompts throughout the system.
 
-6. Allow the user to retry OTP entry in case of incorrect input.:
+6. Allow the user to retry OTP entry in case of incorrect input.
 
 **Project Deliverables:**
 
-Python script containing the implementation of the OTP verification system.
+1. Python script containing the implementation of the OTP verification system.
 
-Documentation explaining the functionality of each function, how to run the program, and any dependencies required.
+2. Documentation explaining the functionality of each function, how to run the program, and any dependencies required.
 
-Test cases to ensure the system functions correctly under various scenarios, including correct and incorrect OTP entries.
+3. Test cases to ensure the system functions correctly under various scenarios, including correct and incorrect OTP entries.
 
-Optionally, you can create a simple GUI interface for the OTP verification system to enhance user experience.
+4. Optionally, you can create a simple GUI interface for the OTP verification system to enhance user experience.
 
